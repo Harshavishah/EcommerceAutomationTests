@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nopcommerce/Locate_loginbttn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nopcommerce/Locate_loginbttn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="Clean Up un-used imports and Update Read.Md." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +37,14 @@
       <option name="presentableId" value="Default" />
       <updated>1699894215192</updated>
     </task>
+    <task id="LOCAL-00001" summary="Clean Up un-used imports and Update Read.Md.">
+      <created>1699895824767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699895824767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -53,5 +57,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean Up un-used imports and Update Read.Md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean Up un-used imports and Update Read.Md." />
   </component>
 </project>
