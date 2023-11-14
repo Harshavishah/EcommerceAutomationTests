@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="Changed the folder name">
-      <change afterPath="$PROJECT_DIR$/Ecommerce/Login_Functionality.py" afterDir="false" />
+    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="Login functionality and title of the homepage of saucedemo website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Locate_loginbttn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Locate_loginbttn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699896139766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Login functionality and title of the homepage of saucedemo website">
+      <created>1699930881954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699930881954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clean Up un-used imports and Update Read.Md." />
     <MESSAGE value="Changed the folder name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the folder name" />
+    <MESSAGE value="Login functionality and title of the homepage of saucedemo website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login functionality and title of the homepage of saucedemo website" />
   </component>
 </project>
