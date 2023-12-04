@@ -1,5 +1,6 @@
 import time
 import unittest
+from Browser_page import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 #from selenium.webdriver.support import expected_conditions as EC
@@ -8,9 +9,8 @@ from selenium.webdriver.common.keys import Keys
 
 class Login_page(unittest.TestCase):
     def test_login_fun(self):
-        Browser = webdriver.Edge()
-        Browser.get("https://www.saucedemo.com/")
-        Browser.maximize_window()
+        #Browser = browser_page.test_Browser_page(self)
+        Browser = browser.setUp(self)
 
         user_name = Browser.find_element(By.ID,"user-name").send_keys("standard_user")
         password = Browser.find_element(By.ID,"password").send_keys("secret_sauce")
