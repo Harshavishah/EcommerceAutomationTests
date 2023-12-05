@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="Login functionality and title of the homepage of saucedemo website">
+    <list default="true" id="d107c9d3-73b1-42b6-8d15-8ee9d2f6fa00" name="Changes" comment="Added missing file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Add_to_Cart_Fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Add_to_Cart_Fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Browser_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Browser_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Login_Functionality.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Login_Functionality.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,34 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Python tests for Add_to_Cart_Fun.Add_to_cart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="EcommerceAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ecommerce" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Add_to_Cart_Fun.Add_to_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for main.test_login_fun" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="EcommerceAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.test_login_fun&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for Login_Functionality.Login_page.test_login_fun" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="EcommerceAutomationTests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Add_to_Cart_Fun.Add_to_cart" />
+        <item itemvalue="Python tests.Python tests for main.test_login_fun" />
         <item itemvalue="Python tests.pytest for Login_Functionality.Login_page.test_login_fun" />
       </list>
     </recent_temporary>
@@ -116,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701279196902</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Refactored test to make a setup generic.">
+      <created>1701711583241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701711583241</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added missing file">
+      <created>1701711617597</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701711617597</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +180,19 @@
     <MESSAGE value="Clean Up un-used imports and Update Read.Md." />
     <MESSAGE value="Changed the folder name" />
     <MESSAGE value="Login functionality and title of the homepage of saucedemo website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login functionality and title of the homepage of saucedemo website" />
+    <MESSAGE value="Refactored test to make a setup generic." />
+    <MESSAGE value="Added missing file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ecommerce/Add_to_Cart_Fun.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

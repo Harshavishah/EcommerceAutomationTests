@@ -2,13 +2,11 @@ import time
 import unittest
 from selenium import webdriver
 
-
-
 class browser(unittest.TestCase):
-        def setUp(self):
+        def SetUp(self,url):
                 browser = webdriver.Edge()
-                browser.get("https://www.saucedemo.com/")
+                browser.get(url)
                 browser.maximize_window()
-                time.sleep(2)
+               # time.sleep(2)
                 return browser
 
